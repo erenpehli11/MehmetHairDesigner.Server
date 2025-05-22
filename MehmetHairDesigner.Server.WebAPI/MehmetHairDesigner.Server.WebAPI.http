@@ -1,0 +1,6 @@
+@MehmetHairDesigner.Server.WebAPI_HostAddress = http://localhost:5031
+
+GET {{MehmetHairDesigner.Server.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
